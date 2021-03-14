@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Development\MaibornWolff\bacheloarbeit-3d-avatar-creation\B_3DRealtimeAvatarCreation" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="mp4_Loader.cs" t="Include" />
+          <e p="RawVideoReceiver.cs" t="Include" />
+          <e p="TexReader.cs" t="Include" />
+          <e p="UDPRecieve.cs" t="Include" />
+          <e p="vlc_StreamReciever.cs" t="Include" />
+          <e p="WebStream.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="CutoutShader.shader" t="Include" />
+        </e>
+        <e p="VLCUnity" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="MinimalPlayback.cs" t="Include" />
+              <e p="ThreeSixty.cs" t="Include" />
+            </e>
+          </e>
+          <e p="documentation.txt" t="Include" />
+        </e>
+      </e>
+      <e p="B_3DRealtimeAvatarCreation.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\roberts\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\roberts\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_B_3DRealtimeAvatarCreation.-1373275749.00" t="ExcludeRecursive" />
+  </component>
+</project>
